@@ -1,0 +1,22 @@
+
+.imageCart{
+    width: 6rem;
+    height: 6rem;
+}
+
+.totalDiv{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+
+
+.title{
+    font-size: 15px!important;
+}
+
+.facture{
+    display: flex;
+    justify-content: end;
+    margin-right:180px;
+}

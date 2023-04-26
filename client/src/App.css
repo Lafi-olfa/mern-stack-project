@@ -1,0 +1,17 @@
+#navbar {
+  font-size: 15px;
+  padding: 1px;
+}
+.ecomerce {
+  opacity: 0.5;
+}
+.ecomerce:hover {
+  opacity: 0.9;
+  color: rgb(43, 243, 243);
+}
+#basic-nav-dropdown {
+  opacity: 0.5;
+}
+#basic-nav-dropdown:hover {
+  opacity: 0.9;
+}
